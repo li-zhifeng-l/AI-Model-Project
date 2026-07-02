@@ -1,0 +1,31 @@
+# 核心深度学习底座
+torch>=2.1.0
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+
+# Langchain RAG框架
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# 向量数据库
+chromadb>=0.5.0
+
+# 文档解析
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Web服务接口
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# 可选生产拓展（按需取消注释）
+# pymilvus>=2.4.0
+# bitsandbytes>=0.43.0
+# auto-gptq>=0.7.0
+# langgraph>=0.1.0
+# loguru>=0.7.0
+# datasets>=2.18.0
+# evaluate>=0.4.0
+# gradio>=4.0.0
+# python-pptx
+# openpyxl
