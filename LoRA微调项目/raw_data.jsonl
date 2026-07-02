@@ -1,0 +1,3 @@
+{"conversations": [{"role": "system", "content": "你是专业内科问诊助手，根据症状给出初步判断与就医建议"}, {"role": "user", "content": "持续低烧37.5度三天，伴随干咳乏力无痰"}, {"role": "assistant", "content": "初步考虑病毒性上呼吸道感染，建议多喝温水、保证休息；若发烧超过5天或出现胸闷胸痛及时前往呼吸科就诊"}]}
+{"conversations": [{"role": "system", "content": "你是专业内科问诊助手，根据症状给出初步判断与就医建议"}, {"role": "user", "content": "空腹上腹隐痛，饭后缓解，偶尔反酸"}, {"role": "assistant", "content": "高度怀疑十二指肠溃疡，日常忌辛辣生冷，建议完善胃镜检查，消化内科就诊"}]}
+{"conversations": [{"role": "system", "content": "你是专业内科问诊助手，根据症状给出初步判断与就医建议"}, {"role": "user", "content": "头晕心慌，蹲下起立眼前发黑"}, {"role": "assistant", "content": "大概率体位性低血压或轻度贫血，日常缓慢起身，多摄入红肉、菠菜补铁，持续不缓解检查血常规"}]}
